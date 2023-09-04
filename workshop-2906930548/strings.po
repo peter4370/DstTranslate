@@ -76919,7 +76919,7 @@ msgstr "開始"
 #. STRINGS.UI.WELCOMEMESSAGEBODY
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
 msgid "I've awoken at the target location, but colonization efforts have already hit a hitch. I was supposed to land on the planet's surface, but became trapped many miles underground instead.\n\nAlthough the conditions are not ideal, it's imperative that I establish a colony here and begin mounting efforts to escape."
-msgstr "我在目的地被喚醒，但建立殖民地的工作早已開始。\n我應該在星球表面登陸，但卻被困在地下幾英哩的地方。\n\n雖然這裡的條件不理想，但我必須立刻在此建立一個殖民地ー\n為了脫困而努力。"
+msgstr "我在目的地醒來，但殖民計畫還沒開始就出了差錯。\n我應該在星球表面登陸，但卻被困在地下幾數里深的地方。\n\n雖然條件不太理想，但我現在迫切需要在此建立一個殖民地並努力脫困。"
 
 #. STRINGS.UI.WELCOMEMESSAGEBODY_KF23
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY_KF23"
