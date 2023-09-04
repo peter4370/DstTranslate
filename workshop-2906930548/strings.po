@@ -13219,7 +13219,7 @@ msgstr "<link=\"SCULPTURE1X2AMAZING3\">不透明的球體</link>"
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_4.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_4.DESC"
 msgid "A masterful celebration of the Sweepy's unbeatable work ethic and cheerful, can-clean attitude."
-msgstr "對清潔機器人無與倫比的職業道德和開朗、乾淨的態度的精湛刻畫。"
+msgstr "對掃掃無與倫比的職業道德和開朗、乾淨的態度的精湛刻畫。"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_4.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_4.NAME"
@@ -14019,7 +14019,7 @@ msgstr "可愛的小臉預先安裝好了。"
 #. STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.EFFECT"
 msgid "Deploys an automated <link=\"SWEEPBOT\">Sweepy Bot</link> to sweep up <link=\"ELEMENTSSOLID\">Solid</link> debris and <link=\"ELEMENTSLIQUID\">Liquid</link> spills.\n\nDock stores <link=\"ELEMENTSLIQUID\">Liquids</link> and <link=\"ELEMENTSSOLID\">Solids</link> gathered by the Sweepy.\n\nUses <link=\"POWER\">Power</link> to recharge the Sweepy.\n\nDuplicants will empty Dock storage into available storage bins."
-msgstr "部署<link=\"SWEEPBOT\">清潔機器人</link>來打掃<link=\"ELEMENTSSOLID\">固體</link>與<link=\"ELEMENTSLIQUID\">液體</link>。\n\n儲存清潔機器人身上的<link=\"ELEMENTSLIQUID\">液體</link>與<link=\"ELEMENTSSOLID\">固體</link>。\n\n需要<link=\"POWER\">電力</link>為清潔機器人充電。\n\n複製人會將清潔櫃內的東西存進儲存箱中。"
+msgstr "部署<link=\"SWEEPBOT\">掃掃機器人</link>來打掃<link=\"ELEMENTSSOLID\">固體</link>與<link=\"ELEMENTSLIQUID\">液體</link>。\n\n儲存掃掃身上的<link=\"ELEMENTSLIQUID\">液體</link>與<link=\"ELEMENTSSOLID\">固體</link>。\n\n需要<link=\"POWER\">電力</link>為掃掃充電。\n\n複製人會將清潔櫃內的東西存進儲存箱中。"
 
 #. STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.NAME"
@@ -14029,7 +14029,7 @@ msgstr "<link=\"SWEEPBOTSTATION\">清潔櫃</link>"
 #. STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.NAMEDSTATION
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.NAMEDSTATION"
 msgid "{0}'s Dock"
-msgstr "{0} 的充電座"
+msgstr "{0} 的清潔櫃"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.DESC"
@@ -17929,7 +17929,7 @@ msgstr "高溫危險"
 #. STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.BODY"
 msgid "<smallcaps>>>SEARCH DATABASE [\"vacillator\"]\n>...error...\n>...repairing corrupt data...\n>...data repaired...\n>.........................\n>>returning results\n>.........................</smallcaps>\n<b>I remember...</b>\n<smallcaps>>.........................\n>.........................</smallcaps>\n<b>machines.</b>\n\n"
-msgstr "<smallcaps>>>搜尋資料庫【\"vacillator\"】\n>…錯誤…\n>…修復損壞資料…\n>…資料已修復…\n>.........................\n>>返回結果\n>.........................</smallcaps>\n<b>我記得…</b>\n<smallcaps>>.........................\n>.........................</smallcaps>\n<b>機器。</b>\n\n"
+msgstr "<smallcaps>>>搜尋資料庫【\"振盪器\"】\n>…錯誤…\n>…修復損壞資料…\n>…資料已修復…\n>.........................\n>>回傳結果\n>.........................</smallcaps>\n<b>我記得…</b>\n<smallcaps>>.........................\n>.........................</smallcaps>\n<b>機器。</b>\n\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.TITLE"
@@ -19974,7 +19974,7 @@ msgstr "香水百合"
 #. STRINGS.CODEX.SWEEPY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SWEEPY.BODY.CONTAINER1"
 msgid "The Sweepy is a domesticated sweeping robot programmed to clean solid and liquid debris. The Sweepy Dock will automatically launch the Sweepy, store the debris the robot picks up, and recharge the Sweepy's battery, provided it has been plugged into a power source.\n\nThough the Sweepy can not travel over gaps or uneven ground, it is programmed to feel really bad about this."
-msgstr "清潔機器人是一個被設計為打掃室內固體與液體雜物的機器人。\n清潔櫃會自動啟動清潔機器人、儲存機器人拾起的雜物與為機器人充電，\n前提是機器人的插座接上電源。\n\n雖然清潔機器人不能穿過缺口和不平的地面，\n但它的程式會為此感到難過。"
+msgstr "掃掃是一個被設計為打掃固體碎屑與少量液體的機器人。\n清潔櫃會自動派出掃掃、儲存機器人拾起的雜物與為掃掃充電，\n前提是接上了電源。\n\n雖然掃掃不能行走過缺口和不平的地面，\n但的程式被設計來對此事感到特別難過。"
 
 #. STRINGS.CODEX.SWEEPY.SUBTITLE
 msgctxt "STRINGS.CODEX.SWEEPY.SUBTITLE"
@@ -19984,7 +19984,7 @@ msgstr "負責清潔的機器人"
 #. STRINGS.CODEX.SWEEPY.TITLE
 msgctxt "STRINGS.CODEX.SWEEPY.TITLE"
 msgid "Sweepy"
-msgstr "清潔機器人"
+msgstr "掃掃"
 
 #. STRINGS.CODEX.THIMBLEREED.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.THIMBLEREED.BODY.CONTAINER1"
@@ -51144,7 +51144,7 @@ msgstr "一台自動清潔機器人。\n\n清理<link=\"ELEMENTSSOLID\">固體</
 #. STRINGS.ROBOTS.MODELS.SWEEPBOT.NAME
 msgctxt "STRINGS.ROBOTS.MODELS.SWEEPBOT.NAME"
 msgid "Sweepy"
-msgstr "清潔機器人"
+msgstr "掃掃"
 
 #. STRINGS.ROBOTS.STATS.INTERNALBATTERY.NAME
 msgctxt "STRINGS.ROBOTS.STATS.INTERNALBATTERY.NAME"
@@ -62299,7 +62299,7 @@ msgstr "卓越服裝"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.SWEEPYS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.SWEEPYS"
 msgid "Sweepys"
-msgstr "清潔機器人"
+msgstr "掃掃"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CLOTHING_ITEM_FACADE_FOR
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CLOTHING_ITEM_FACADE_FOR"
