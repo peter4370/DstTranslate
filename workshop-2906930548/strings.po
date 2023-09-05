@@ -19004,7 +19004,7 @@ msgstr "初遇"
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.DESCRIPTION"
 msgid "I've discovered an experiment designed to analyze the evolutionary dynamics of critter mutation.\n\nOnce it has gathered enough data, it could prove extremely useful for genetic manipulation."
-msgstr "我發現了一個用於分析小動物變異的進化動態實驗。\n\n收集到足夠的資料後，它就能提供即期有用的基因操縱功能。"
+msgstr "我發現了一個用於分析小動物變異的進化動態實驗。\n\n收集到足夠的資料後，它就能提供極其有用的基因操縱功能。"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.BEGIN_POPUP.NAME"
