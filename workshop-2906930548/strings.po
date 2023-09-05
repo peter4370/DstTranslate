@@ -19974,7 +19974,7 @@ msgstr "香水百合"
 #. STRINGS.CODEX.SWEEPY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SWEEPY.BODY.CONTAINER1"
 msgid "The Sweepy is a domesticated sweeping robot programmed to clean solid and liquid debris. The Sweepy Dock will automatically launch the Sweepy, store the debris the robot picks up, and recharge the Sweepy's battery, provided it has been plugged into a power source.\n\nThough the Sweepy can not travel over gaps or uneven ground, it is programmed to feel really bad about this."
-msgstr "掃掃是一個被設計為打掃固體碎屑與少量液體的機器人。\n清潔櫃會自動派出掃掃、儲存機器人拾起的雜物與為掃掃充電，\n前提是接上了電源。\n\n雖然掃掃不能行走過缺口和不平的地面，\n但的程式被設計來對此事感到特別難過。"
+msgstr "掃掃是一個被設計為打掃固體碎屑與少量液體的機器人。\n清潔櫃會自動派出掃掃、儲存機器人拾起的雜物與為掃掃充電，\n前提是接上了電源。\n\n雖然掃掃不能行走過缺口和不平的地面，\n但它的程式被設計來對此事感到特別難過。"
 
 #. STRINGS.CODEX.SWEEPY.SUBTITLE
 msgctxt "STRINGS.CODEX.SWEEPY.SUBTITLE"
