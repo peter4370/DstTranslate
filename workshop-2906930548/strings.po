@@ -3804,7 +3804,7 @@ msgstr "充能中：{charge}"
 #. STRINGS.BUILDING.STATUSITEMS.WARPPORTALCHARGING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WARPPORTALCHARGING.TOOLTIP"
 msgid "This teleporter will be ready for use in {cycles} cycles"
-msgstr "這座傳送器 {cycles} 後可以使用"
+msgstr "這座傳送器 {cycles} 周期後可以使用"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME"
@@ -45869,7 +45869,7 @@ msgstr "複製人準備傳送"
 #. STRINGS.MISC.NOTIFICATIONS.WARP_PORTAL_DUPE_READY.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WARP_PORTAL_DUPE_READY.TOOLTIP"
 msgid "{dupe} is ready to warp from the Teleporter Transmitter"
-msgstr "{dupe} is ready to warp from the Teleporter Transmitter"
+msgstr "{dupe} 已經準備好從傳送發射裝置傳送了"
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY"
