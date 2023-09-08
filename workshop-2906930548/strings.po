@@ -11674,7 +11674,7 @@ msgstr "對複製人而言只是一小步。"
 #. STRINGS.BUILDINGS.PREFABS.PIONEERMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIONEERMODULE.EFFECT"
 msgid "Enables travel to Planetoids that do not yet have a <link=\"LAUNCHPAD\">Rocket Platform</link>.\n\nCan hold one Duplicant traveller.\n\nDeployment is available while in a Starmap hex adjacent to a Planetoid. \n\nMust be built via Rocket Platform."
-msgstr "可前往沒有<link=\"LAUNCHPAD\">火箭平台</link>的小行星。\n\n可容納一個複製人。\n\n當星圖上的區塊有小行星時可以部署。\n\n必須透過火箭平台建造。"
+msgstr "可前往沒有<link=\"LAUNCHPAD\">火箭平台</link>的小行星。\n\n可容納一個複製人。\n\n當處於星圖上的小行星相鄰區塊時可以部署。\n\n必須透過火箭平台建造。"
 
 #. STRINGS.BUILDINGS.PREFABS.PIONEERMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIONEERMODULE.NAME"
