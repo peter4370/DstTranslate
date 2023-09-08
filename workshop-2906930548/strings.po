@@ -15959,7 +15959,7 @@ msgstr "Holland 博士的狗"
 #. STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.BODY.CONTAINER1"
 msgid "Bring your office to the stars with Gravitas new corporate space stations.\n\nEnjoy a captivated workforce with over 600 square feet of office space in low earth orbit. Stunning views, a low gravity gym and a cafeteria serving the finest nutritional bars await your personnel.\n\nDaily to and from missions to your satellite office via our luxury space shuttles.\n\nRest assured our space stations and shuttles utilize only the extremely efficient, environmentally friendly Gravitas proprietary power sources.\n\nThe workplace revolution starts now!"
-msgstr "將你的辦公室搬到太空中的引力科技新型企業太空站。\n\n在低地球軌道上超過 600 平方英尺的辦公空間，享受迷人的勞動力。\n令人讚嘆的景色、低重力健身房與最好的能量棒在餐廳裡等著你的員工。\n\n透過我們的豪華太空船每日往返你的衛星辦公室。\n\n請放心，我們的太空站與太空船只使用非常高效，對環保的引力科技能源。\n\n職場革命從現在開始！"
+msgstr "將你的辦公室搬到星際的引力科技新型企業太空站。\n\n享受令員工著迷位於低地球軌道上超過 600 平方英尺的辦公空間。\n令人讚嘆的景色、低重力健身房與最好的能量棒在餐廳裡等著你的員工。\n\n透過我們的豪華太空船每日往返你的衛星辦公室。\n\n請放心，我們的太空站與太空船只使用極其高效、環境友善的引力科技能源。\n\n現在就開始職場革新！"
 
 #. STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.B1_SPACEFACILITYDISPLAY1.BODY.CONTAINER2"
